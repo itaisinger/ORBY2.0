@@ -1,0 +1,1 @@
+global.wall_color_index = 1;

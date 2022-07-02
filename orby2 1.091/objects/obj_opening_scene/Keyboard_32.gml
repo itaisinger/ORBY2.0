@@ -1,0 +1,2 @@
+///@description 
+destroy = 1;

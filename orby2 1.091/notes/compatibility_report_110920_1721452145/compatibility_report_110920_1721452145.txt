@@ -1,0 +1,3 @@
+Converting GML script: ${project_dir}\scripts\string_split\string_split.gml
+Converted description /// @description string_split(string, split)/// @param string
+/// @param  split

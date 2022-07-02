@@ -1,0 +1,1 @@
+global.max_capitals = 5;

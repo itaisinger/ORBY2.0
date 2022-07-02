@@ -1,0 +1,1 @@
+global.shadow_h = 2;

@@ -1,0 +1,1 @@
+index = "wall open left";

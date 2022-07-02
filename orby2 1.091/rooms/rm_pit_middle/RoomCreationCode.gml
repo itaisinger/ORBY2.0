@@ -1,0 +1,1 @@
+global.camera_zoom = 1.125;

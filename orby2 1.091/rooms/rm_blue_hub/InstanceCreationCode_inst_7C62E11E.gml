@@ -1,0 +1,1 @@
+index = "hall3 exit";

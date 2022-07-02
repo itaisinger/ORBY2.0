@@ -1,0 +1,1 @@
+global.darkness_alpha = 0.7;

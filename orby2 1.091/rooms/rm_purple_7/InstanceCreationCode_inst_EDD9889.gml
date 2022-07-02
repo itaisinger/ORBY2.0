@@ -1,0 +1,1 @@
+state = MINERS.spawn;

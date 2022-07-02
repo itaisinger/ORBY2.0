@@ -1,0 +1,1 @@
+room_dest = rm_blue_hole;
